@@ -12,7 +12,7 @@
 
 ### Download Option (No Login Required)
 
-[![Download .pbix File](https://img.shields.io/badge/Download-Power_BI_Dashboard-FF6B00?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/Final%20Chocolate%20Analysis.pbix)
+[![Download .pbix File](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/blob/main/Chocolate%20Analysis.pbip)
 
 **Dashboard Pages:**
 - Monthly Sales Overview
