@@ -4,13 +4,15 @@
 
 ## 🎯 Live Interactive Dashboard
 
-Explore the full interactive report directly below:
+[Open Interactive Dashboard](https://app.powerbi.com/links/j4yP-3Ro1w?ctid=e9ae53be-adf3-47a1-b516-a3fb2017ff88&pbi_source=linkShare)
 
+**Note:** You may need to sign in with a Microsoft account to view the report.
 
 ---
 
-### Download Option
+### Download Option (No Login Required)
 
+[![Download .pbix File](https://img.shields.io/badge/Download-Power_BI_Dashboard-FF6B00?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/Final%20Chocolate%20Analysis.pbix)
 
 **Dashboard Pages:**
 - Monthly Sales Overview
