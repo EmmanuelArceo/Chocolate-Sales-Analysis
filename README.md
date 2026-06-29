@@ -6,13 +6,11 @@
 
 Explore the full interactive report directly below:
 
-<iframe title="Chocolate Analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c3acf470-38d7-4dfd-9c06-c0a1983f9c48&autoAuth=true&ctid=e9ae53be-adf3-47a1-b516-a3fb2017ff88" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
 ### Download Option
 
-[![Download .pbix File](https://img.shields.io/badge/Download-Power_BI_Dashboard-FF6B00?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/Final%20Chocolate%20Analysis.pbix)
 
 **Dashboard Pages:**
 - Monthly Sales Overview
