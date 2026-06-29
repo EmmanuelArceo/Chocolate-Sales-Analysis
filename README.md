@@ -6,14 +6,7 @@
 
 Explore the full interactive report directly below:
 
-<iframe 
-    title="Chocolate Analysis" 
-    width="100%" 
-    height="750" 
-    src="https://app.powerbi.com/reportEmbed?reportId=c3acf470-38d7-4dfd-9c06-c0a1983f9c48&autoAuth=true&embeddedDemo=true" 
-    frameborder="0" 
-    allowFullScreen="true">
-</iframe>
+<iframe title="Chocolate Analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c3acf470-38d7-4dfd-9c06-c0a1983f9c48&autoAuth=true&ctid=e9ae53be-adf3-47a1-b516-a3fb2017ff88" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
