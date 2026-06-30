@@ -14,15 +14,15 @@ Analysis of chocolate company sales across 5 countries (Australia, Brazil, Germa
 
 ### Page 2: Product Portfolio - Pareto Analysis
 
-![Page 2](screenshots\page2.PNG)
+![Page 2]([screenshots\page2.PNG](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/blob/main/screenshots/page2.PNG))
 
 ### Page 3: Regional Performance Insight
 
-![Page 3](screenshots\page3.PNG)
+![Page 3]([screenshots\page3.PNG](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/blob/main/screenshots/page3.PNG))
 
 ### Page 4: Profit Margin & Marketing Efficiency
 
-![Page 4](screenshots\page4.PNG)
+![Page 4]([screenshots\page4.PNG](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/blob/main/screenshots/page4.PNG))
 
 ## Key Insights
 
@@ -83,4 +83,4 @@ Analysis of chocolate company sales across 5 countries (Australia, Brazil, Germa
 
 ## Contact
 
-[Your Name] | [Your Email] | [LinkedIn URL]
+[Emmanuel Louise V. Arceo] | [emmanuellouisearceo@gmail.com] | [[LinkedIn URL](https://www.linkedin.com/in/emmanuel-louise-arceo-b86b6531b/)]
