@@ -1,52 +1,86 @@
 # Chocolate Sales Analysis
 
-**Interactive Power BI Dashboard & Business Intelligence Project**
+## Overview
 
-## 🎯 Live Interactive Dashboard
+Analysis of chocolate company sales across 5 countries (Australia, Brazil, Germany, India, Japan) with 12 products. Built with SQL, Power BI, and Excel.
 
-[Open Interactive Dashboard](https://app.powerbi.com/links/j4yP-3Ro1w?ctid=e9ae53be-adf3-47a1-b516-a3fb2017ff88&pbi_source=linkShare)
+**Dataset:** 200,000 orders | 28M boxes shipped | $117.78M total revenue
 
-**Note:** You may need to sign in with a Microsoft account to view the report.
+## Dashboard Preview
 
----
+### Page 1: Total Revenue by Month
 
-### Download Option (No Login Required)
+![Page 1](screenshots\page1.PNG)
 
-[![Download .pbix File](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/blob/main/Chocolate%20Analysis.pbip)
+### Page 2: Product Portfolio - Pareto Analysis
 
-**Dashboard Pages:**
-- Monthly Sales Overview
-- Product Portfolio – Pareto Analysis
-- Regional Performance Insight
-- Profit Margin Analysis
+![Page 2](screenshots\page2.PNG)
 
----
+### Page 3: Regional Performance Insight
 
-## Project Overview
-This project analyzes chocolate sales data across **5 countries** (Australia, Brazil, Germany, India, Japan) and **12 products**, totaling **$117.78 million** in revenue.
+![Page 3](screenshots\page3.PNG)
 
-The 4-page interactive Power BI dashboard provides clear insights into seasonality, product performance, regional differences, and marketing efficiency.
+### Page 4: Profit Margin & Marketing Efficiency
 
-## Key Insights & Recommendations
+![Page 4](screenshots\page4.PNG)
 
-- **Product Focus**: Concentrate efforts on the top 5 products that generate ~80% of revenue.
-- **Regional Strategy**: Expand premium offerings in Brazil, maintain volume leadership in Australia, and optimize pricing in India.
-- **Seasonality**: Capitalize on strong Q4 performance and run targeted promotions during summer months to reduce revenue dips.
-- **Profitability**: Brazil delivers the strongest margins. Marketing spend is efficient at approximately 16% of revenue.
+## Key Insights
 
-## Skills Demonstrated
-- Advanced SQL (aggregations, window functions, date handling, CTEs)
-- Power BI (DAX measures, interactive dashboards, data storytelling, KPI design)
-- Pareto Analysis & Business Intelligence
-- Strategic insight development and recommendation formulation
+- **December peak:** $12.8M revenue (holiday gifting drives 40% of Q4)
+- **Summer slump:** June drops to $8.3M — consistent across both years
+- **Australia & Brazil:** 77% of total revenue combined
+- **Brazil:** Highest revenue per transaction ($692) — premium market
+- **India:** Lowest revenue per transaction ($371) — price-sensitive market
+- **Top 3 products:** 70% Dark Bar ($30.3M), Mixed Assortment Box ($22.5M), Truffle Gift Box ($22.2M)
 
-## Files Included
-- `Final Chocolate Analysis.pbix` – Main Power BI Dashboard
-- SQL Query Scripts
-- Excel Source Data
-- Portfolio Documentation
-- Dashboard Screenshots
+## Tools Used
 
----
+| Tool     | Purpose                                      |
+| -------- | -------------------------------------------- |
+| SQL      | Data extraction, aggregation, trend analysis |
+| Power BI | Interactive dashboard with DAX measures      |
+| Excel    | Data cleaning and source preparation         |
 
-**Built with SQL + Power BI**
+## SQL Skills Demonstrated
+
+- Aggregation (SUM, AVG, COUNT)
+- GROUP BY and ORDER BY
+- Window Functions (LAG for month-over-month growth)
+- CTEs (Common Table Expressions)
+- Date formatting and filtering
+- TOP/LIMIT queries
+
+## Power BI Skills Demonstrated
+
+- DAX measures (calculated fields)
+- KPI cards and conditional formatting
+- Bar charts, line charts, pie charts, maps
+- Slicers and filters (Year, Product, Channel)
+- Interactive dashboards
+
+## Files
+
+| File                                | Description                    |
+| ----------------------------------- | ------------------------------ |
+| `sql\SQLChocolateAnalysis.sql`      | All SQL queries for 5 problems |
+| `powerbi\Chocolate Analysis.pbix`   | Interactive Power BI dashboard |
+| `screenshots`                       | Dashboard page images          |
+| `data\Chocolate Sales Analysis.csv` | Source dataset                 |
+
+## How to View
+
+1. **SQL:** Open `.sql` file in any SQL editor (SSMS, DBeaver, etc.)
+2. **Power BI:** Download `.pbix` and open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+3. **Screenshots:** View PNG images directly in browser
+
+## Business Recommendations
+
+1. Boost summer marketing (Jun-Aug) to offset seasonal dip
+2. Promote 85% Dark Bar — highest margin, underperforming volume
+3. Discontinue or reformulate Hazelnut Milk Bar — weakest performer
+4. Expand premium offerings in Brazil — highest revenue per transaction
+5. Fix pricing in India — lowest revenue per transaction, most price-sensitive
+
+## Contact
+
+[Your Name] | [Your Email] | [LinkedIn URL]
