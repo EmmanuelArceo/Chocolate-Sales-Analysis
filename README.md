@@ -83,4 +83,4 @@ Analysis of chocolate company sales across 5 countries (Australia, Brazil, Germa
 
 ## Contact
 
-[Emmanuel Louise V. Arceo] | [emmanuellouisearceo@gmail.com] | [[LinkedIn URL](https://www.linkedin.com/in/emmanuel-louise-arceo-b86b6531b/)]
+[Emmanuel Louise V. Arceo] | [emmanuellouisearceo@gmail.com] | [Emmanuel Arceo](https://www.linkedin.com/in/emmanuel-louise-arceo-b86b6531b/)
