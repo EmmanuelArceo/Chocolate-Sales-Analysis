@@ -10,7 +10,7 @@ Analysis of chocolate company sales across 5 countries (Australia, Brazil, Germa
 
 ### Page 1: Total Revenue by Month
 
-![Page 1](screenshots\page1.PNG)
+![Page 1]([screenshots\page1.PNG](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/blob/main/screenshots/page1.PNG))
 
 ### Page 2: Product Portfolio - Pareto Analysis
 
