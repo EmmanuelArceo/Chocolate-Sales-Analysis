@@ -60,12 +60,12 @@ Analysis of chocolate company sales across 5 countries (Australia, Brazil, Germa
 
 ## Files
 
-| File                                | Description                    |
-| ----------------------------------- | ------------------------------ |
-| `sql\SQLChocolateAnalysis.sql`      | All SQL queries for 5 problems |
-| `powerbi\Chocolate Analysis.pbix`   | Interactive Power BI dashboard |
-| `screenshots`                       | Dashboard page images          |
-| `data\Chocolate Sales Analysis.csv` | Source dataset                 |
+| File                                                                                                               | Description                    |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
+| [`sql\SQLChocolateAnalysis.sql`](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/tree/main/sql)          | All SQL queries for 5 problems |
+| [`powerbi\Chocolate Analysis.pbix`](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/tree/main/powerbi)   | Interactive Power BI dashboard |
+| [ `screenshots`](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/tree/main/screenshots)                  | Dashboard page images          |
+| [`data\Chocolate Sales Analysis.csv`](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis/tree/main/data)    | Source dataset                 |
 
 ## How to View
 
